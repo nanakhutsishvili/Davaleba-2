@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(14, 98, 171);
+}
+.card {
+
+    background-color: white;
+    width: 230px;
+    height: 350px;
+    margin: auto;
+    
+    
+    border-radius: 9px;
+    text-align: center;
+    
+}
+img {
+    background-color: rgb(14, 98, 171);
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    padding: 20px;
+    border-radius: 9px;
+}
+h1 {
+    
+    font-size: 17px;
+    padding: 0px 15px;
+}
+
+p{
+    font-size: 12px;
+    padding: 0px 15px;
+    opacity: 50%;
+    
+}
